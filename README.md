@@ -63,12 +63,12 @@ The goal is to build and evaluate models for classifying images from the **Anima
    cd animals10-classification
    ```
 2. Install dependencies:
-  ```bash
+   ```bash
    pip install -r requirements.txt
    ```
 3. Run the Jupyter Notebook:
    ```bash
-    jupyter notebook notebooks/animal_classification.ipynb
+   jupyter notebook notebooks/animal_classification.ipynb
    ```
 
 ## 📌 Acknowledgements  
