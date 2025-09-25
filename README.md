@@ -1,6 +1,6 @@
 # 🐾 Animals-10 Image Classification
 
-This project was developed as part of the **Akbank Deep Learning Bootcamp (2025)**.  
+This project was developed as part of the **Global.AI Akbank Deep Learning Bootcamp (2025)**.  
 The goal is to build and evaluate models for classifying images from the **Animals-10 dataset**, containing 10 different animal categories.
 
 ---
