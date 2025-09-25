@@ -10,7 +10,7 @@ The goal is to build and evaluate models for classifying images from the **Anima
 - **Source:** [Animals-10 (Kaggle)](https://www.kaggle.com/datasets/alessiocorrado99/animals10)  
 - **Classes (10):** dog (*cane*), horse (*cavallo*), elephant (*elefante*), butterfly (*farfalla*), chicken (*gallina*), cat (*gatto*), cow (*mucca*), sheep (*pecora*), spider (*ragno*), squirrel (*scoiattolo*)  
 - **Size:** ~28,000 images  
-- **Split:** 70% training, 15% validation, 15% test  
+- **Split:** 80% training, 10% validation, 10% test  
 
 ---
 
